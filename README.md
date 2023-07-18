@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pilou26021
 - 👀 I’m interested in video games and learning code.
-- 🌱 I’m currently learning python, js, c++.
+- 🌱 I’m currently learning python, c++.
 - 📫 How to reach me PilouFace_#5680
 
 <!---
